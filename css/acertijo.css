@@ -132,7 +132,8 @@ body {
     border-radius: 4px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-decoration: none;
-    padding-top: 3px;
+    padding-top: 4px;
+    text-align: center;
     transition: all 1s ease;
 }
 
