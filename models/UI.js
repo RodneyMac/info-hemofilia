@@ -55,6 +55,6 @@ export class UI {
 
     showProgress(currentIndex, total) {
         const element = document.querySelector(".progress");
-        element.innerHTML = `Pregunta <h6 class="current-index">${currentIndex}</h6> de <h6 class="total-progress">${total}</h6>`;
+        element.innerHTML = `Item <h6 class="current-index">${currentIndex}</h6> de <h6 class="total-progress">${total}</h6>`;
     }
 }
